@@ -17,7 +17,7 @@
     "base64url": "^3.0.0",
     "crypto": "^1.0.1",
     "dataloader": "^1.4.0",
-    "express-fileupload": "^0.4.0",
+    "express-fileupload": "^1.1.10",
     "fs": "0.0.1-security",
     "graphql-yoga": "^1.14.12",
     "inflector": "0.0.1",
